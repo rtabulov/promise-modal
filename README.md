@@ -1,6 +1,6 @@
 # promise-modal
 
-PromiseModal inspired by [Djaler](https://github.com/djaler)
+PromiseModal inspired by [vue-promise-dialogs](https://github.com/djaler/vue-promise-dialogs)
 
 **Important note**
 
